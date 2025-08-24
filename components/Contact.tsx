@@ -26,8 +26,8 @@ const ContactPage: React.FC = () => {
     return (
         <div className="max-w-3xl mx-auto py-12 px-4 sm:px-6 lg:px-8 animate-fadeIn">
             <h1 className="text-4xl font-bold text-center text-gray-800 dark:text-white mb-4 dark:[text-shadow:0_0_8px_rgba(255,255,255,0.4)]">Get In Touch</h1>
-            <p className="text-lg text-center text-gray-600 dark:text-gray-300 mb-12">Have a question or want to work together? Leave your details and I'll get back to you.</p>
-            
+            <p className="text-lg text-center text-gray-600 dark:text-gray-300 mb-12">Have a question or want to work together? Leave your details and I&apos;ll get back to you.</p>
+
             <form onSubmit={handleSubmit} className="space-y-6 bg-white/60 dark:bg-gray-900/50 backdrop-blur-md p-8 rounded-lg shadow-lg border border-gray-200/80 dark:shadow-fuchsia-500/15 dark:border-fuchsia-900/50">
                 <div>
                     <label htmlFor="name" className="block text-sm font-medium text-gray-700 dark:text-gray-300">Name</label>

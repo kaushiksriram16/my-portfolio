@@ -27,9 +27,9 @@ const HomePage: React.FC<HomePageProps> = ({ setCurrentPage }) => (
     {/* About Me Section */}
     <section className="py-20 bg-white/50 dark:bg-gray-900/50 backdrop-blur-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 className="text-3xl font-bold text-gray-800 dark:text-white mb-4 dark:[text-shadow:0_0_8px_rgba(255,255,255,0.3)]">Hi, I'm Kaushik. Nice to meet you.</h2>
+        <h2 className="text-3xl font-bold text-gray-800 dark:text-white mb-4 dark:[text-shadow:0_0_8px_rgba(255,255,255,0.3)]">Hi, I&apos;m Kaushik. Nice to meet you.</h2>
         <p className="max-w-5xl mx-auto text-lg text-gray-600 dark:text-gray-300">
-          Since beginning my journey in tech, I’ve worked across the stack—building full-stack web applications with a strong focus on clean, scalable frontend experiences. I'm passionate about cloud technologies, constantly exploring tools that improve deployment and automation workflows. I have a deep interest in APIs—whether it's designing, integrating, or just experimenting with them, they’re at the heart of much of my work. I’m quietly confident, naturally curious, and always learning—one pull request, API call, and cloud experiment at a time.
+          Since beginning my journey in tech, I&apos;ve worked across the stack—building full-stack web applications with a strong focus on clean, scalable frontend experiences. I&apos;m passionate about cloud technologies, constantly exploring tools that improve deployment and automation workflows. I have a deep interest in APIs—whether it&apos;s designing, integrating, or just experimenting with them, they&apos;re at the heart of much of my work. I&apos;m quietly confident, naturally curious, and always learning—one pull request, API call, and cloud experiment at a time.
         </p>
       </div>
     </section>

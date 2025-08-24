@@ -9,9 +9,9 @@ const AboutPage: React.FC = () => (
                 <img src="https://media.licdn.com/dms/image/v2/D5603AQE5R7LMxL8UrQ/profile-displayphoto-scale_200_200/B56ZeJ0ttcHQAo-/0/1750363987256?e=1757548800&v=beta&t=HJcZqDYJvHi9EcL3QpE4XdSAl3GnBUdt7_2e_nUPwbQ" alt="Your Name" className="rounded-full mx-auto shadow-lg dark:shadow-fuchsia-500/20" />
             </div>
             <div className="md:col-span-2 text-lg text-gray-700 dark:text-gray-300 space-y-6">
-                <p>I'm a passionate developer with a knack for creating elegant solutions in the least amount of time. I specialize in front-end development, particularly with React and Next.js, but I'm always eager to learn new technologies and expand my skillset.</p>
-                <p>My journey into web development started with a simple "Hello, World!" and has since grown into a full-fledged passion for building intuitive, dynamic user experiences. I believe that great design is not just about aesthetics, but also about creating something that is functional and easy to use.</p>
-                <p>When I'm not coding, you can find me exploring the great outdoors, reading a good book, or experimenting with new recipes in the kitchen.</p>
+                <p>I&apos;m a passionate developer with a knack for creating elegant solutions in the least amount of time. I specialize in front-end development, particularly with React and Next.js, but I&apos;m always eager to learn new technologies and expand my skillset.</p>
+                <p>My journey into web development started with a simple Hello, World! and has since grown into a full-fledged passion for building intuitive, dynamic user experiences. I believe that great design is not just about aesthetics, but also about creating something that is functional and easy to use.</p>
+                <p>When I&apos;m not coding, you can find me exploring the great outdoors, reading a good book, or experimenting with new recipes in the kitchen.</p>
             </div>
         </div>
         <Skills />
